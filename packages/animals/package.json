@@ -13,6 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "@tuskdesign/util": "^1.2.0"
+  },
   "devDependencies": {
     "@types/node": "18.16.9",
     "typescript": "~5.5.2"
